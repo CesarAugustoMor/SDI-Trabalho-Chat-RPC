@@ -2,19 +2,19 @@
 
 ## %%%%% Clonar %%%%%
 
-git clone ...
+`git clone https://github.com/CesarAugustoMor/SDI-Trabalho-Chat-RPC.git`
 
 ## %%%%% Compilar %%%%%
 
-make clean; make
+`make clean; make`
 
 ## %%%%% Rodar Servidor %%%%%
 
-./server
+`./server`
 
 ## %%%%% Rodar Client %%%%%
 
-./client <hostname> <filename> <userName>
+`./client <hostname> <filename> <userName>`
 
 ## %%%%% Observação %%%%%
 
