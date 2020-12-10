@@ -12,7 +12,7 @@
 
 `./server`
 
-## %%%%% Rodar Client %%%%%
+## %%%%% Rodar Cliente %%%%%
 
 `./client <hostname> <filename> <userName>`
 
